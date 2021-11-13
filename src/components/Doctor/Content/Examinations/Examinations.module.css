@@ -1,0 +1,10 @@
+.examinationsContainer {
+  width: 100%;
+  /* width: 100vw; */
+  /* height: 100vw; */
+}
+
+.examItemsContainer {
+  overflow: auto;
+  height: 430px;
+}

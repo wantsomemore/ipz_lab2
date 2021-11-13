@@ -1,0 +1,43 @@
+.doctorOuterContainer {
+  width: 100vw;
+  /* height: 100vw; */
+}
+
+.doctorOuterContainer a {
+  text-decoration: none;
+  color: white;
+}
+
+.doctorOuterContainer a:hover {
+  color: #2fba64;
+}
+
+.doctorContainer {
+  display: flex;
+  /*  justify-content: center; */
+  align-items: center;
+  flex-direction: column;
+  color: white;
+}
+
+.dataContainer {
+  height: 520px;
+  max-height: 520px;
+  min-height: 260px;
+  width: 900px;
+  max-width: 900px;
+  padding: 15px;
+  margin-top: 20px;
+}
+
+.dataContainer a {
+  color: #28738f;
+}
+
+.submitButton {
+  margin-top: 20px;
+}
+
+.registerNow {
+  text-decoration: none;
+}
